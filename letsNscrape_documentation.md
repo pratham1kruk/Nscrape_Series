@@ -842,7 +842,7 @@ Every tool in the series is:
 
 *LetsNScrape v1.0.0 — NScrape Series — [pratham1uk](https://hub.docker.com/r/pratham1uk)*
 
-[![Backend](https://img.shields.io/badge/DockerHub-Backend-0066CC?style=flat-square&logo=docker)](https://hub.docker.com/r/pratham1uk/letsnscape-backend)
-[![Frontend](https://img.shields.io/badge/DockerHub-Frontend-0099FF?style=flat-square&logo=docker)](https://hub.docker.com/r/pratham1uk/letsnscape-frontend)
+[![LetsNScrape Backend](https://img.shields.io/badge/DockerHub-letsnscrape--backend-0066CC?style=flat-square&logo=docker)](https://hub.docker.com/r/pratham1uk/letsnscrape-backend)
+[![LetsNScrape Frontend](https://img.shields.io/badge/DockerHub-letsnscrape--frontend-0099FF?style=flat-square&logo=docker)](https://hub.docker.com/r/pratham1uk/letsnscrape-frontend)
 
 </div>
