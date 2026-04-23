@@ -380,8 +380,8 @@ SnapNScrape is one tool in a growing collection of focused scraping and data ext
 
 **Built by pratham1uk · NScrape Series**
 
-![Docker Pulls](https://img.shields.io/docker/pulls/pratham1uk/snapnscrape-gateway?style=flat-square&color=e8200e)
-![Docker Image Size](https://img.shields.io/docker/image-size/pratham1uk/snapnscrape-scraper/latest?style=flat-square&color=111111)
+[![SnapNScrape Gateway](https://img.shields.io/badge/DockerHub-snapnscrape--gateway-e8200e?style=flat-square&logo=docker)](https://hub.docker.com/r/pratham1uk/snapnscrape-gateway)
+[![SnapNScrape Scraper](https://img.shields.io/badge/DockerHub-snapnscrape--scraper-111111?style=flat-square&logo=docker)](https://hub.docker.com/r/pratham1uk/snapnscrape-scraper)
 
 <br/>
 
