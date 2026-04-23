@@ -831,8 +831,8 @@ Every tool in the series is:
 | Tool | What It Does | Status |
 |------|-------------|:------:|
 | 🕷️ **LetsNScrape** | General-purpose web scraper — any URL, any data type | `v1.0.0` ✅ |
-| 📸 **SnapNScrape** | *(Coming soon)* | `—` |
-| 🎬 **YtNScrape** | *(Coming soon)* | `—` |
+| ⚡ **ytNscrape** | YouTube lecture scraper — slide frames + captions + PDF notes | `v1.0.0` ✅ |
+| 📸 **SnapNScrape** | General web scraping with OCR failsafe | `v1.0.0` ✅ |
 
 ---
 
