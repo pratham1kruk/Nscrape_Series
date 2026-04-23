@@ -366,11 +366,11 @@ This means **zero additional setup on your machine**. Pull the image and it work
 
 SnapNScrape is one tool in a growing collection of focused scraping and data extraction tools — all Docker-first, all available on Docker Hub under `pratham1uk/`.
 
-| Tool | Docker Hub | Purpose |
-|---|---|---|
-| **snapNscrape** | `pratham1uk/snapnscrape-*` | General web scraping with OCR failsafe |
-| **letsNscrape** | `pratham1uk/letnscrape-*` | — Documentation coming soon |
-| **ytNscrape** | `pratham1uk/ytnscrape-*` | — Documentation coming soon |
+| Tool | What It Does | Status |
+|------|-------------|:------:|
+| 🕷️ **LetsNScrape** | General-purpose web scraper — any URL, any data type | `v1.0.0` ✅ |
+| ⚡ **ytNscrape** | YouTube lecture scraper — slide frames + captions + PDF notes | `v1.0.0` ✅ |
+| 📸 **SnapNScrape** | General web scraping with OCR failsafe | `v1.0.0` ✅ |
 
 ---
 
