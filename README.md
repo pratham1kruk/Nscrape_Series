@@ -81,10 +81,6 @@ They share one design philosophy:
 
 > **The web is your database. LetsNScrape is your query.**
 
-[![Version](https://img.shields.io/badge/version-v1.0.0-0066CC?style=flat-square)](https://hub.docker.com/r/pratham1uk/letsnscape-backend)
-[![Docker Pulls](https://img.shields.io/docker/pulls/pratham1uk/letsnscape-backend?style=flat-square&color=0066CC)](https://hub.docker.com/r/pratham1uk/letsnscape-backend)
-[![Image Size](https://img.shields.io/docker/image-size/pratham1uk/letsnscape-backend/latest?style=flat-square&color=003399)](https://hub.docker.com/r/pratham1uk/letsnscape-backend)
-
 A **general-purpose web scraper** that extracts exactly the data you need from any webpage. Text, images, links, metadata, headings, tables — individually or all at once. Handles both static HTML sites and JavaScript-rendered SPAs.
 
 ### What problem it solves
@@ -270,10 +266,6 @@ Interactive docs: **http://localhost:3070/docs**
 
 > **Paste a YouTube lecture URL. Get a note-ready PDF and a ZIP of clean slide frames — automatically.**
 
-[![Version](https://img.shields.io/badge/version-v1.0.0-F5C400?style=flat-square)](https://hub.docker.com/r/pratham1uk/ytnscrape-gateway)
-[![Docker Pulls](https://img.shields.io/docker/pulls/pratham1uk/ytnscrape-gateway?style=flat-square&color=D4A800)](https://hub.docker.com/r/pratham1uk/ytnscrape-gateway)
-[![Image Size](https://img.shields.io/docker/image-size/pratham1uk/ytnscrape-gateway/latest?style=flat-square&color=B8960A)](https://hub.docker.com/r/pratham1uk/ytnscrape-gateway)
-
 A **YouTube lecture scraper** that downloads a video, extracts and deduplicates slide frames by content type, syncs captions, and renders everything into a study-ready PDF and ZIP — fully automated.
 
 ### What problem it solves
@@ -431,10 +423,6 @@ Automatic — no config needed. If `nvidia-container-toolkit` is installed and a
 ## 📸 SnapNScrape
 
 > **Extract any web content. Without limits.**
-
-[![Version](https://img.shields.io/badge/version-v1.0.0-e8200e?style=flat-square)](https://hub.docker.com/r/pratham1uk/snapnscrape-gateway)
-[![Docker Pulls](https://img.shields.io/docker/pulls/pratham1uk/snapnscrape-gateway?style=flat-square&color=e8200e)](https://hub.docker.com/r/pratham1uk/snapnscrape-gateway)
-[![Image Size](https://img.shields.io/docker/image-size/pratham1uk/snapnscrape-scraper/latest?style=flat-square&color=111111)](https://hub.docker.com/r/pratham1uk/snapnscrape-scraper)
 
 A **containerised web scraping platform** with a three-stage intelligent pipeline. Built for sites that actively block bots, rely on JavaScript rendering, or hide content behind dynamic layers. When HTTP fails and Playwright fails, it screenshots the page and reads the text with Tesseract OCR.
 
