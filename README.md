@@ -49,6 +49,18 @@ They share one design philosophy:
 
 ---
 
+## Overview
+
+Three **independently built and published** data extraction tools, each solving a different scraping problem and shipped as **production Docker images** — pull, run, done. Every tool exposes a **REST API** (Swagger docs included), a **web UI**, and configurable **export formats** (PDF, DOCX, ZIP, JSON).
+
+- **LetsNScrape** — general-purpose scraper with a **dual-engine pipeline** (HTTP + **Playwright**), auto-switching for JS-rendered sites.
+- **SnapNScrape** — scraping with an **OCR failsafe** (Playwright screenshot + **Tesseract**) for bot-blocked or JS-hostile pages.
+- **ytNscrape** — a **9-service pipeline** (yt-dlp + ffmpeg + a MiniLM embedding model) that turns YouTube lectures into deduplicated, captioned **study PDFs**.
+
+**Core skills demonstrated:** `Docker` · `Docker Compose` · `FastAPI` · `Playwright` · `OCR / Tesseract` · `Redis` · `REST API design` · `Swagger/OpenAPI` · `yt-dlp` · `Microservice architecture` · `CI/CD image publishing`
+
+---
+
 ## The Tools
 
 | Tool | Purpose | Images | UI Port | Status |
